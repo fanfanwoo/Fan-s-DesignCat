@@ -1,0 +1,7 @@
+{
+  "name": "Fan's DesignCat",
+  "description": "Professional product design critique and improvement tool powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

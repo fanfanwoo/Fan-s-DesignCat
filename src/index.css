@@ -1,0 +1,5 @@
+/* Basic reset, Tailwind handled via CDN in index.html for this setup */
+body {
+  margin: 0;
+  padding: 0;
+}
